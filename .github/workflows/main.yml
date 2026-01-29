@@ -22,3 +22,8 @@ jobs:
 
       - name: Ejecutar pruebas
         run: npm test
+
+        "scripts": {
+  "test": "jest"
+}
+
